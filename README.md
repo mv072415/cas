@@ -12,7 +12,7 @@
     <p>I want to take a moment to express my sincerest apologies. If I have hurt you in any way, I deeply regret it and I am truly sorry.</p>
     <p>I hope we can move forward with understanding, kindness, and respect.</p>
     <p>Please accept my heartfelt apology, and I hope this can be a step towards healing.</p>
-    <p>Sincerely, <br> [Your Name]</p>
+    <p>Sincerely, <br> [Vishal.M]</p>
   </div>
 </body>
 </html>
